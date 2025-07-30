@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Android/iOS build
+android/
+ios/
+build/
+*.apk
+
+# Env
+.env
